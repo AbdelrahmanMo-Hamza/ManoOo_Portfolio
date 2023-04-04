@@ -1224,6 +1224,7 @@ ul {
 div .info {
   text-align: center;
   font-weight: bold;
+  direction: rtl;
 }
 /* End Videos */
 /* Start Stats */
