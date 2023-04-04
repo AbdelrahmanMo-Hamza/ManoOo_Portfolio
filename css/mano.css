@@ -1221,10 +1221,10 @@ ul {
   background-color: white;
   margin-top: 10px;
 }
-div .info {
+#ayah {
+  direction: rtl;
   text-align: center;
   font-weight: bold;
-  direction: rtl;
 }
 /* End Videos */
 /* Start Stats */
