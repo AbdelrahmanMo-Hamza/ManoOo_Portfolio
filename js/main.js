@@ -1,4 +1,4 @@
-const countDownDate = new Date("Jul 10, 2023 23:59:59").getTime(),
+const countDownDate = new Date("Jan 1, 2024 23:59:59").getTime(),
   counter = setInterval(() => {
     var t = new Date().getTime(),
       t = countDownDate - t;
